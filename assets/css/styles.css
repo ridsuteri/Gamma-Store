@@ -1,0 +1,16 @@
+*{
+    scroll-behavior: smooth;
+}
+.carousel-inner .carousel-item img{
+    height: 65vh;
+    width: 100vh;
+}
+
+.card a img, .product_img a img{
+    max-height: 200px;
+}
+
+
+.card{
+    margin: 5px;
+}
